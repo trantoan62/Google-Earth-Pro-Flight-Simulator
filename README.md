@@ -8,7 +8,7 @@ Google Earth Pro Flight Simulator code for study
 * Le Hoang Hoang	  19146122
 * Nguyen Minh Huy 	19146006
 * 
-* Date: 26/12/2022
+* Date: 27/12/2022
 
 Descrpition: A flight simulator device with Joystick using IMU MPU6050 module, buttons and switchs, using Raspberry Pi 3 as a microcontroller to read and send input though UART serial by CP2102 to pyAutoGUI on th computer, to fly a plane in Google Earth Pro Flight Simulator
 
