@@ -12,14 +12,15 @@ Google Earth Pro Flight Simulator code for study
 
 Descrpition: A flight simulator device with Joystick using IMU MPU6050 module, buttons and switchs, using Raspberry Pi 3 as a microcontroller to read and send input though UART serial by CP2102 to pyAutoGUI on th computer, to fly a plane in Google Earth Pro Flight Simulator
 
-Reference: 
+References: 
+
 Author http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2018/sb2276/sb2276/sb2276/index.html
 
 Google Earth https://www.google.com/earth/versions/#earth-pro
 
-6050 pin: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
+MPU6050 register map: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
 
-pyAutoGUI: https://pyautogui.readthedocs.io/en/latest/
+pyAutoGUI reference: https://pyautogui.readthedocs.io/en/latest/
 
 Hardware: Raspberry Pi 3 (x1), MPU6050 (x1), USB to TTL CP2102 (x1), Switchs (x6), Buttons (x7), Joystick & base
 
