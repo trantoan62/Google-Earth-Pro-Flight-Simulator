@@ -3,9 +3,9 @@ Google Earth Pro Flight Simulator code for study
 
 * Google Earth Pro Flight Simulator
 *
-* Name              StudentID
+* Name              Student ID
 * Tran Quoc Toan 	  19146090
-* Le Hoang Hoang	  19146122
+* Le Hoang Hoa	  19146122
 * Nguyen Minh Huy 	19146006
 * 
 * Date: 27/12/2022
